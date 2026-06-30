@@ -67,7 +67,7 @@ This project demonstrates:
 - Business Insight Generation  
 ---
 ## 📸 Dashboard Preview
-(Add your Power BI dashboard screenshots here)
+(/PIZZA%20DASHBOARD.png)
 ---
 ## 👨‍💻 Author
 *Kamal Sharma*  
