@@ -67,7 +67,7 @@ This project demonstrates:
 - Business Insight Generation  
 ---
 ## 📸 Dashboard Preview
-(/PIZZA%20DASHBOARD.png)
+## Dashboard Preview![Pizza Sales Analysis Dashboard](HR%20Analytics%20Dashboard.png)
 ---
 ## 👨‍💻 Author
 *Kamal Sharma*  
